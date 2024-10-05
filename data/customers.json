@@ -1,0 +1,17 @@
+[
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "john.doe@test.com",
+      "password": "$2a$12$uJZgJ3Hdw3LZ5hw9DWJH6O9BbmqH9YF11uTPDctMoYZyGcxrDiyGi", // bcrypt hash untuk "password123"
+      "logged_in": false
+    },
+    {
+      "id": "2",
+      "name": "Jane Doe",
+      "email": "jane.doe@test.com",
+      "password": "$2a$12$Xz4ThCzY6Z9oHk.KFmowseT4Y5Vo1BuHwG02xPyLXRjbBYnRtQsPm", // bcrypt hash untuk "mypassword"
+      "logged_in": false
+    }
+  ]
+  
